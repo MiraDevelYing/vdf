@@ -1,0 +1,40 @@
+#id01{
+    color: black;
+}
+
+.zagolovok_col{
+    color: black;
+}
+.color1{
+    color: black;
+    font-size: 150%;
+}
+.leftimg{
+    float:black; 
+    margin: 7px 7px 7px 0; 
+}
+.color2{
+    color: black;
+}
+#id1{
+    color: black;
+    font-size: 150%
+}
+#id2{
+    color: black;
+    font-size: 150%
+}
+#id3{
+    color: black;
+    font-size: 125%
+}
+#id4{
+    color: black;
+    font-size: 150%
+}
+#id5{
+    font-size:130%
+}
+BODY {
+    background:url(../img/2.jpg)
+   } 
